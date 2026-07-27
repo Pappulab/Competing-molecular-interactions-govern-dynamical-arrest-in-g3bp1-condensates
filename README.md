@@ -1,4 +1,4 @@
-# Repository for Singh et al. Competing molecular interactions govern dynamical arrest in G3BP1 condensates - Simulation Analysis 
+# Repository for Singh et al., Competing molecular interactions govern dynamical arrest in G3BP1 condensates - Simulation Analysis 
 
 g3bp1_data: contains coordinates and cluster data for G3BP1-only simulations corresponding to different scaling factors
 
